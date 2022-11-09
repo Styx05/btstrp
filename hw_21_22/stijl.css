@@ -1,0 +1,10 @@
+#tabel {
+  font-family: verdana, sans-serif;
+  color: navy;
+  text-align: center;
+  font-size: 11px;
+  border-width: 2px;
+  border-style: solid;
+  border-collapse: separate;
+  border-color: #669966;
+}
